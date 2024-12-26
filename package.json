@@ -38,7 +38,7 @@
     "gatsby-plugin-google-analytics": "^5.14.0",
     "gatsby-plugin-image": "^3.14.0",
     "gatsby-plugin-manifest": "^5.14.0",
-    "gatsby-plugin-netlify": "^3.4.0",
+    "gatsby-plugin-netlify": "^5.0.0",
     "gatsby-plugin-offline": "^1.0.18",
     "gatsby-plugin-react-helmet": "^4.4.0",
     "gatsby-plugin-robots-txt": "^1.5.6",
