@@ -125,7 +125,22 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['ASP.NET','JavaScript (ES6+)', 'Java', 'ReactJS','NodeJS', 'MongoDB', 'Firebase', 'Flutter', 'Kotlin', 'SQL'];
+  const skills = [
+    'ASP.NET Core',
+    'C#',
+    'Entity Framework Core',
+    'SQL',
+    'MongoDB',
+    'Redis',
+    'RabbitMQ',
+    'Docker & Kubernetes',
+    'Azure DevOps',
+    'JavaScript (ES6+)',
+    'MERN Stack',
+    'Flutter',
+    'Java',
+    'Git',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,15 +150,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Pramod Lakmal, and I am passionate about creating innovative digital solutions that enhance user experiences. My journey in software engineering began with an eagerness to solve real-world problems, which has led me to specialize in building full-stack web and mobile applications.
+              Hello! My name is Pramod Lakmal, and I am passionate about building robust and
+              scalable backend solutions. My journey in software engineering started with a
+              curiosity to solve real-world challenges, which led me to specialize in backend
+              development and distributed systems.
             </p>
 
             <p>
-              Currently pursuing a BSc (Hons) in IT specializing in Software Engineering at SLIIT, I have gained hands-on experience in cutting-edge technologies, including Java, the MERN stack, and Flutter. I focus on developing accessible and efficient applications that address everyday challenges while ensuring high performance and scalability.
+              Currently pursuing a BSc (Hons) in IT specializing in Software Engineering at SLIIT, I
+              have hands-on experience in designing and developing backend services using ASP.NET
+              Core, microservices, and cloud technologies. My focus is on creating high-performance,
+              secure, and scalable applications that power seamless digital experiences.
             </p>
 
             <p>
-              My technical expertise includes working with a wide range of tools and technologies, such as Node.js, React.js, Firebase, and Kotlin. I am committed to continuous learning and thrive on opportunities to collaborate and innovate within diverse teams.
+              I am always eager to learn and grow, enjoying the process of solving complex problems
+              and bringing ideas to life. Collaboration and innovation drive me, and I love working
+              with teams to build impactful solutions that make a difference.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

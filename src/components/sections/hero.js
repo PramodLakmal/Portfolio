@@ -64,17 +64,27 @@ const Hero = () => {
   const three = <h3 className="medium-heading">I build things for the web.</h3>;
   const four = (
     <>
-       <p>
-       I’m passionate about crafting efficient and innovative solutions for the web. As a software engineer, I specialize in developing seamless, user-centered digital experiences. Currently, I’m honing my skills to build impactful and accessible applications that make a difference.
+      <p>
+        I’m a software engineer passionate about developing high-performance backend systems and
+        seamless user experiences.
+      </p>
+      <p>
+        My expertise lies in designing scalable architectures, optimizing databases, and automating
+        deployments using modern DevOps practices.
+      </p>
+      <p>
+        While I primarily focus on backend development and cloud infrastructure, I also enjoy
+        crafting intuitive front-end interfaces when needed.
+      </p>
+      <p>
+        Currently, I’m enhancing my skills in distributed systems, microservices, and cloud-native
+        technologies to build reliable and future-proof applications.
       </p>
     </>
   );
+
   const five = (
-    <a
-      className="email-link"
-      href="/resume.pdf"
-      target="_blank"
-      rel="noopener noreferrer">
+    <a className="email-link" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
       Download My Resume!
     </a>
   );

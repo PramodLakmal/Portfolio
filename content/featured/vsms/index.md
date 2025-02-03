@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Singhe Automotive Pvt Ltd'
 cover: './vsms.png'
 github: 'https://github.com/PramodLakmal/mern-vsms'
