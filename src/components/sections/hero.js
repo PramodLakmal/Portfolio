@@ -73,10 +73,6 @@ const Hero = () => {
         deployments using modern DevOps practices.
       </p>
       <p>
-        While I primarily focus on backend development and cloud infrastructure, I also enjoy
-        crafting intuitive front-end interfaces when needed.
-      </p>
-      <p>
         Currently, I’m enhancing my skills in distributed systems, microservices, and cloud-native
         technologies to build reliable and future-proof applications.
       </p>
